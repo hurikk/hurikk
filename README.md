@@ -6,10 +6,9 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hurikk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurikk&hide_progress=true&theme=dark">
 </div>
--->
 
 ##
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="hurik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hurik-RaspberryPi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">

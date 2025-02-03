@@ -1,10 +1,12 @@
 ## Olá! Me chamo Huan Henrique
 
+<!--
 <div>
   <a href="https://github.com/hurikk">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hurikk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurikk&hide_progress=true&theme=dark">
 </div>
+-->
 
 ##
 
